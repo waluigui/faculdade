@@ -2,15 +2,14 @@ import java.util.Scanner;
 
 public class Mainl {
     public static void main(String[] args) {
-        int s,i,n;
 
-        Scanner foda = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);
 
-        n = foda.nextInt();
+       int n = scanner.nextInt();
 
-        i = foda.nextInt();
+       int i = scanner.nextInt();
 
-        s = i + n;
+       int s = i + n;
 
         System.out.println("sua resposta piva = " + s);
     }

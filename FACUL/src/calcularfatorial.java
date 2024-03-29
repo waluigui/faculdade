@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class main3 {
+public class calcularfatorial {
     public static void main(String[] args) {
         Scanner foda = new Scanner(System.in);
 
